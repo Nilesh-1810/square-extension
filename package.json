@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Nilesh-1810.github.io/square-extension",
+  "homepage": "https://github.com/Nilesh-1810/square-extension.git",
 
   "scripts": {
     "dev": "vite",
