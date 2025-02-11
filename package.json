@@ -3,6 +3,8 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://Nilesh-1810.github.io/square-extension",
+
   "scripts": {
     "dev": "vite",
     "build": "vite build",
